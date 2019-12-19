@@ -1,0 +1,31 @@
+a:link{
+    color: white;
+}
+a:hover{
+    color: black;
+    border: 2px solid red;
+    background-color: white;
+    
+}
+a:active{
+    color: white;
+    border: 2px solid red;
+    background-color: black;
+    
+}
+a:visited{
+    color: white;
+    border: 2px solid red;
+    background-color: lightseagreen;
+    
+}
+body{
+    background: linear-gradient(to right,yellow,lightseagreen);
+    
+}
+.quit{
+    color: red;
+    border: 3px solid blue;
+    width: 800px;
+    background-color: #ffc400;
+}
